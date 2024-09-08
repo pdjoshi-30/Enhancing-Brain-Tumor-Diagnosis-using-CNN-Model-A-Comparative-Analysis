@@ -1,5 +1,7 @@
 # Enhancing-Brain-Tumor-Diagnosis-using-CNN-Model-A-Comparative-Analysis
-This is Officioal Repo of the paper Enhancing Brain Tumor Diagnosis using CNN Model: A Comparative Analysis which is available as preprint on TechRxiv, IEEE Preprint's Server. [PAPER LINK] (https://www.techrxiv.org/doi/full/10.36227/techrxiv.170491533.39709620/v1)
+This is Officioal Repo of the paper Enhancing Brain Tumor Diagnosis using CNN Model: A Comparative Analysis which is available as preprint on TechRxiv, IEEE Preprint's Server. [PAPER LINK](https://www.techrxiv.org/doi/full/10.36227/techrxiv.170491533.39709620/v1)
+
+
 
 #Overview
 
